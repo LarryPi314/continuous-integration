@@ -1,9 +1,9 @@
-# Continuous Integration ![https://github.com/mikeizbicki/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/LarryPi314/continuous-integration/actions?query=workflow%3Atests](https://github.com/LarryPi314/continuous-integration/workflows/tests/badge.svg)
 
 *This is the first homework assignment for Claremont McKenna's [CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course and [CSCI143: Big Data](https://github.com/mikeizbicki/cmc-csci143) course.*
 
 Continuous Integration (CI) is a technique for proving that your code is correct.
-CI tools run your code's test cases automatically when you commit code to your repo,
+CI tools run your code's test cases automatically when you commit code to your regpo,
 and let you know if anything is broken.
 
 In this class, we will be using GitHub Actions for CI.
