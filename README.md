@@ -23,7 +23,7 @@ The workflow is summarized in the following diagram:
 </p>
 
 In this assignment, you will create a sample project that uses CI to run some simple tests.
-There is very little coding in this assignment, and the purpose is to ensure that you understand the mechanics of how to get CI running correctly.
+There is very little coding required in this assignment, and the purpose is to ensure that you understand the mechanics of how to get CI running correctly.
 
 ## Instructions
 
